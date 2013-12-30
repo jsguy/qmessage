@@ -12,7 +12,6 @@
     "name": "Mikkel Bergmann",
     "email": "mikkel@jsguy.com"
   },
-  "private": true,
   "license": "MIT",
   "engines": {
     "node": ">=0.4.6"
