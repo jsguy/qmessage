@@ -1,0 +1,12 @@
+//-	Show queued messages as a list
+if(qmessages)
+	ul
+		each idx, type in qmessages
+			each message in qmessages[type]
+				li(class=type) #{message}
+//-	Show queued messages using alertify
+//- if(qmessages)
+//- 	each idx, type in qmessages
+//- 		each message in qmessages[type]
+//- 			script.
+//- 				alertify.#{type}("#{message}");

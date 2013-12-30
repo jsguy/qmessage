@@ -1,0 +1,6 @@
+body 		{ padding: 50px; font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+a 			{ color: #00b7ff; }
+li 			{ padding: 1em 2em; margin-bottom: 1em; color: #fff; }
+li.success 	{ background: #5b5; border: 1px solid #090; }
+li.log 		{ background: #55c; border: 1px solid #00a; }
+li.error 	{ background: #c55; border: 1px solid #a00; }

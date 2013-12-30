@@ -1,0 +1,25 @@
+{
+  "name": "qmessage",
+  "version": "0.0.1",
+  "description": "Message queue for ExpressJS 3",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsguy/qmessage.git"
+  },
+  "author": {
+    "name": "Mikkel Bergmann",
+    "email": "mikkel@jsguy.com"
+  },
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.4.6"
+  },
+  "dependencies": {},
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jsguy/qmessage/issues"
+  }
+}
